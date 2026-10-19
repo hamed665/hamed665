@@ -17,7 +17,7 @@ I build practical software around conversational interfaces, document workflows 
 
 - [Customer Support Workspace — PR #1](https://github.com/hamed665/ai-customer-support-saas/pull/1): multilingual support, scoped knowledge citations, business metrics and human handoff. Core/browser tests pass; inherited dependency vulnerabilities block release.
 - [Document Intelligence API — PR #1](https://github.com/hamed665/ai-document-intelligence/pull/1): authenticated extraction, structured fields and bounded batches. 11 focused tests pass; inherited Windows ARM OCR dependency installation remains blocked.
-- [Browser Automation Workbench — PR #1](https://github.com/hamed665/ai-browser-automation-agent/pull/1): approval gates, task state, execution logs and protected screenshots. Local tests pass; legacy dependency security and full model integration remain unresolved.
+- [Browser Automation Workbench — PR #1](https://github.com/hamed665/ai-browser-automation-agent/pull/1): approval gates, task state, execution logs and protected screenshots. Nine tests and the real Chromium/HTTP flow pass; legacy dependency security and full model integration remain unresolved.
 
 These are open-source integration and extension projects. Each repository identifies its upstream foundation, original license and my additions. I preserve attribution and original commit history.
 
@@ -29,3 +29,5 @@ These are open-source integration and extension projects. Each repository identi
 - Treat human approval, secret handling and dependency licensing as part of the design.
 
 Explore the repositories and their pull requests for implementation details, test commands and current demo status. None of these portfolio previews is presented as production-ready.
+
+[Detailed verification report and demo limitations](PORTFOLIO_STATUS.md)

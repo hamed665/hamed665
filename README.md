@@ -1,7 +1,7 @@
 # Hamed Minaei
 ### Applied AI · Software engineering · Business automation
 
-I build practical software around conversational interfaces, document workflows and controlled automation. My focus is clear architecture, reproducible tests and honest engineering evidence.
+I build practical software around conversational interfaces, document workflows and controlled automation. I focus on clear interfaces, explicit workflows and reproducible tests.
 
 **Working stack:** Python · TypeScript · React / Next.js · FastAPI · PostgreSQL · Docker
 
@@ -17,7 +17,7 @@ I build practical software around conversational interfaces, document workflows 
 
 ## In development
 
-- [Browser Automation Workbench — PR #1](https://github.com/hamed665/ai-browser-automation-agent/pull/1): approval gates, task state, execution logs and protected screenshots. Nine tests and the real Chromium/HTTP flow pass; legacy dependency security and full model integration remain unresolved.
+- [Browser Automation Workbench — PR #1](https://github.com/hamed665/ai-browser-automation-agent/pull/1): approval gates, task state, execution logs and protected screenshots. Ten tests, cancellation/replay checks and the real Chromium/HTTP flow pass; legacy dependency security and full model integration remain unresolved.
 
 These are open-source integration and extension projects. Each repository identifies its upstream foundation, original license and my additions. I preserve attribution and original commit history.
 

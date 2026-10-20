@@ -1,9 +1,13 @@
 # Hamed Minaei
-### Applied AI · Software engineering · Business automation
+### Full-stack & Applied AI Engineer
+
+**Hamed Minaei** · Python · TypeScript · Business automation
 
 I build practical software around conversational interfaces, document workflows and controlled automation. I focus on clear interfaces, explicit workflows and reproducible tests.
 
 **Working stack:** Python · TypeScript · React / Next.js · FastAPI · PostgreSQL · Docker
+
+[Resume project briefs](RESUME_PROJECTS.md) · [Detailed engineering evidence](PORTFOLIO_STATUS.md)
 
 ## Selected engineering work
 

@@ -21,3 +21,5 @@ This is an engineering evidence snapshot, not a production-readiness certificate
 - [Browser verify + separate legacy audit](https://github.com/hamed665/ai-browser-automation-agent/actions/runs/39347635271), [real screenshots](https://github.com/hamed665/ai-browser-automation-agent/tree/feat/approval-task-workbench/docs/screenshots)
 
 The support workspace has a verified hosted static demo; all other demos currently run locally or in CI. Additional infrastructure, provider credentials or model downloads must use a separate non-production environment. Original copyright notices, license files and Git ancestry are retained. No contribution dates or history were rewritten.
+
+[Verified five-project pin snapshot — 2026-10-20](docs/screenshots/profile-selected.jpg). Captured from the actual GitHub profile after the selected previews were merged.

@@ -23,7 +23,19 @@ I build practical software around conversational interfaces, document workflows 
 
 - [Browser Automation Workbench — PR #1](https://github.com/hamed665/ai-browser-automation-agent/pull/1): approval gates, task state, execution logs and protected screenshots. Ten tests, cancellation/replay checks and the real Chromium/HTTP flow pass; legacy dependency security and full model integration remain unresolved.
 
-These are open-source integration and extension projects. Each repository identifies its upstream foundation, original license and my additions. I preserve attribution and original commit history.
+The integration projects above are open-source integration and extension projects. Each repository identifies its upstream foundation, original license and my additions. I preserve attribution and original commit history.
+
+## Original backend reference projects
+
+Five standalone Python projects with runnable offline demos, synthetic fixtures and **43 passing local tests**. Each includes installation instructions, design notes, limitations and a Python 3.11–3.13 CI workflow. These are library/CLI reference implementations, not hosted production services.
+
+| Project | Engineering focus | Local tests |
+| --- | --- | --- |
+| [SlotGuard](https://github.com/hamed665/reservation-conflict-engine) | Transactional booking conflicts, UTC normalization and competing requests | 8 |
+| [MergeDesk](https://github.com/hamed665/crm-sync-conflict-resolver) | Three-way CRM merge, deletion semantics and explicit conflict review | 9 |
+| [TokenLedger](https://github.com/hamed665/llm-budget-ledger) | Exact cost accounting, atomic budget reservations and usage settlement | 9 |
+| [CatalogLens](https://github.com/hamed665/catalog-search-workbench) | Explainable BM25 search, business filters, Unicode and offline evaluation | 9 |
+| [RelayBox](https://github.com/hamed665/event-outbox-worker) | Atomic outbox writes, fenced leases, retries and dead-letter recovery | 8 |
 
 ## How I work
 

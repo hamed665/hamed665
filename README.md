@@ -37,6 +37,18 @@ Five standalone Python projects with runnable offline demos, synthetic fixtures 
 | [CatalogLens](https://github.com/hamed665/catalog-search-workbench) | Explainable BM25 search, business filters, Unicode and offline evaluation | 9 |
 | [RelayBox](https://github.com/hamed665/event-outbox-worker) | Atomic outbox writes, fenced leases, retries and dead-letter recovery | 8 |
 
+## Interactive engineering workbenches
+
+Five original JavaScript projects with **40 passing local tests**, an editable browser demo, JSON report export and a Node CLI. Each browser demo is generated from the same engine source used by the tests, and runs offline without an API key. These are reference implementations with synthetic data; production integration boundaries are documented per project.
+
+| Workbench | Engineering focus |
+| --- | --- |
+| [ChronoJoin](https://github.com/hamed665/point-in-time-feature-lab) | Point-in-time feature joins with event/availability checks and provenance |
+| [ContractDesk](https://github.com/hamed665/dataset-contract-workbench) | Strict dataset contracts, duplicate quarantine and value-redacted issue reports |
+| [FlagPilot](https://github.com/hamed665/release-rollout-workbench) | Deterministic rollout buckets, stable exposure and a kill switch |
+| [SignalWatch](https://github.com/hamed665/streaming-anomaly-workbench) | Event-time replay, watermarks and cumulative online anomaly baselines |
+| [GateFlow](https://github.com/hamed665/approval-workflow-replay) | Dependency graphs, explicit approval gates and auditable event replay |
+
 ## How I work
 
 - Start with an observable baseline and document limitations.

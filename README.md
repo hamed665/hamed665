@@ -39,15 +39,15 @@ Five standalone Python projects with runnable offline demos, synthetic fixtures 
 
 ## Interactive engineering workbenches
 
-Five original JavaScript projects with **40 passing local tests**, an editable browser demo, JSON report export and a Node CLI. Each browser demo is generated from the same engine source used by the tests, and runs offline without an API key. These are reference implementations with synthetic data; production integration boundaries are documented per project.
+Five original JavaScript projects with **40 passing local tests**, a verified live browser demo, editable synthetic input, JSON report export and a Node CLI. Each demo uses the same engine source exercised by the tests and can also run offline. These are reference implementations; production integration boundaries are documented per project.
 
-| Workbench | Engineering focus |
-| --- | --- |
-| [ChronoJoin](https://github.com/hamed665/point-in-time-feature-lab) | Point-in-time feature joins with event/availability checks and provenance |
-| [ContractDesk](https://github.com/hamed665/dataset-contract-workbench) | Strict dataset contracts, duplicate quarantine and value-redacted issue reports |
-| [FlagPilot](https://github.com/hamed665/release-rollout-workbench) | Deterministic rollout buckets, stable exposure and a kill switch |
-| [SignalWatch](https://github.com/hamed665/streaming-anomaly-workbench) | Event-time replay, watermarks and cumulative online anomaly baselines |
-| [GateFlow](https://github.com/hamed665/approval-workflow-replay) | Dependency graphs, explicit approval gates and auditable event replay |
+| Workbench | Engineering focus | Try it |
+| --- | --- | --- |
+| [ChronoJoin](https://github.com/hamed665/point-in-time-feature-lab) | Point-in-time feature joins with event/availability checks and provenance | [Live demo](https://hamed665.github.io/point-in-time-feature-lab/) |
+| [ContractDesk](https://github.com/hamed665/dataset-contract-workbench) | Strict dataset contracts, duplicate quarantine and value-redacted issue reports | [Live demo](https://hamed665.github.io/dataset-contract-workbench/) |
+| [FlagPilot](https://github.com/hamed665/release-rollout-workbench) | Deterministic rollout buckets, stable exposure and a kill switch | [Live demo](https://hamed665.github.io/release-rollout-workbench/) |
+| [SignalWatch](https://github.com/hamed665/streaming-anomaly-workbench) | Event-time replay, watermarks and cumulative online anomaly baselines | [Live demo](https://hamed665.github.io/streaming-anomaly-workbench/) |
+| [GateFlow](https://github.com/hamed665/approval-workflow-replay) | Dependency graphs, explicit approval gates and auditable event replay | [Live demo](https://hamed665.github.io/approval-workflow-replay/) |
 
 ## How I work
 
